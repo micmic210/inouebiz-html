@@ -2024,3 +2024,11 @@ html[lang="en"] #contact-cta .contact-option .home-contact-btn {
     align-items: center !important;
     justify-content: center !important;
 }
+
+.navbar-brand {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.9rem;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+    color: #3a3a3a;
+}
